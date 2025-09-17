@@ -1,0 +1,9 @@
+[0.077s] Invoking command in '/home/ibti/ros2_ws/build/my_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ibti/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ibti/ros2_ws/build/my_cpp_pkg -- -j1 -l1
+[0.542s] [31mCMake Error at CMakeLists.txt:5 (ament_target_dependencies):
+[0.542s]   Unknown CMake command "ament_target_dependencies".
+[0.542s] 
+[0.542s] [0m
+[0.555s] -- Configuring incomplete, errors occurred!
+[0.555s] See also "/home/ibti/ros2_ws/build/my_cpp_pkg/CMakeFiles/CMakeOutput.log".
+[0.565s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.573s] Invoked command in '/home/ibti/ros2_ws/build/my_cpp_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ibti/ros2_ws/install/my_py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/ibti/ros2_ws/build/my_cpp_pkg -- -j1 -l1

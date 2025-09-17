@@ -1,0 +1,33 @@
+[1.196s] Invoking command in '/home/ibti/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/ibti/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ibti/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ibti/ros2_ws/build/my_py_pkg/build install --record /home/ibti/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
+[1.524s] running egg_info
+[1.525s] creating ../../build/my_py_pkg/my_py_pkg.egg-info
+[1.525s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[1.526s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[1.526s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[1.526s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[1.526s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[1.527s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.530s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.531s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[1.532s] running build
+[1.532s] running build_py
+[1.534s] creating /home/ibti/ros2_ws/build/my_py_pkg/build
+[1.534s] creating /home/ibti/ros2_ws/build/my_py_pkg/build/lib
+[1.534s] creating /home/ibti/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.535s] copying my_py_pkg/__init__.py -> /home/ibti/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[1.535s] running install
+[1.536s] running install_lib
+[1.537s] creating /home/ibti/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.537s] copying /home/ibti/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/ibti/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[1.539s] byte-compiling /home/ibti/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.539s] running install_data
+[1.539s] creating /home/ibti/ros2_ws/install/my_py_pkg/share/ament_index
+[1.539s] creating /home/ibti/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
+[1.540s] creating /home/ibti/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.540s] copying resource/my_py_pkg -> /home/ibti/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[1.540s] copying package.xml -> /home/ibti/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[1.542s] running install_egg_info
+[1.543s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/ibti/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[1.546s] running install_scripts
+[1.581s] writing list of installed files to '/home/ibti/ros2_ws/build/my_py_pkg/install.log'
+[1.609s] Invoked command in '/home/ibti/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/ibti/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ibti/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/ibti/ros2_ws/build/my_py_pkg/build install --record /home/ibti/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data

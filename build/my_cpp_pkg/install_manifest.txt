@@ -1,0 +1,17 @@
+/home/ibti/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/talker
+/home/ibti/ros2_ws/install/my_cpp_pkg/lib/my_cpp_pkg/listener
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_pkg
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_pkg
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.sh
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/ament_prefix_path.dsv
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.sh
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/environment/path.dsv
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.bash
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.sh
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.zsh
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/local_setup.dsv
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.dsv
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/ament_index/resource_index/packages/my_cpp_pkg
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig.cmake
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/cmake/my_cpp_pkgConfig-version.cmake
+/home/ibti/ros2_ws/install/my_cpp_pkg/share/my_cpp_pkg/package.xml
